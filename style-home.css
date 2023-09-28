@@ -3,7 +3,7 @@
 }
 
 .principal{
-	background: #CCCCCC;
+	background: linear-gradient(to bottom, #eea3a3 0%,#490606 100%);
 	padding: 30px;
 }
 
@@ -32,7 +32,7 @@ em strong {
 }
 
 .beneficios {
-	background: #FFFFFF;
+	background: linear-gradient(to bottom, #eea3a3 0%,#490606 100%);
 	padding: 20px;
 }
 
