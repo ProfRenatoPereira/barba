@@ -5,6 +5,7 @@ body {
 header {
 	background: linear-gradient(to bottom, #eea3a3 0%,#490606 100%);
 	padding: 20px 0;
+	img: 50%;
 }
 
 .caixa {
